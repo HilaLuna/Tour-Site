@@ -9,4 +9,4 @@ Linear gradient and some common features were studied.
 
 <h3> Screen View </h3>
 
-![](screen.gif)
+<img src="images/screen.gif" />
